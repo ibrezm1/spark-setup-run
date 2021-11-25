@@ -28,3 +28,4 @@ Check the link for spark details : http://localhost:8080/
 TODO :
 * https://towardsdatascience.com/diy-apache-spark-docker-bb4f11c10d24
 * https://beam.apache.org/documentation/runners/spark/
+* https://0x0ece.medium.com/a-quick-demo-of-apache-beam-with-docker-da98b99a502a
