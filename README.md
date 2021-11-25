@@ -15,3 +15,5 @@ Install the cluster on linux as described (here)[https://phoenixnap.com/kb/insta
 
  stop-all.sh
 ```
+
+Check the link for spark details : http://localhost:8080/
