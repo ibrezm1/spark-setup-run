@@ -30,3 +30,4 @@ TODO :
 * https://beam.apache.org/documentation/runners/spark/
 * https://0x0ece.medium.com/a-quick-demo-of-apache-beam-with-docker-da98b99a502a
 * https://beam.apache.org/get-started/from-spark/
+* https://www.leanwithdata.com/manual/latest/pipeline/pipeline-run-configurations/beam-spark-pipeline-engine.html
