@@ -13,7 +13,17 @@ Install the cluster on linux as described (here)[https://phoenixnap.com/kb/insta
  start-master.sh
  start-slave.sh -c 1 -m 256M spark://6730b:7077
 
+ pip install apache-beam[gcp]
+
+ spark-shell  # for spark-scala :q to quit
+ pyspark # for pyspark shell 
+ spark-submit test-pyspart.py # direct submission to pyspark
+ spark-submit test-beamrunner.py --runner=SparkRunner # submission to beam
+
  stop-all.sh
 ```
 
 Check the link for spark details : http://localhost:8080/
+
+TODO :
+* https://towardsdatascience.com/diy-apache-spark-docker-bb4f11c10d24
